@@ -1,5 +1,5 @@
 {
-    "Appearance-light@@card-layout-open-light": false,
+    "Appearance-light@@card-layout-open-light": true,
     "Appearance-light@@accent-light": "#000000",
     "Appearance-light@@accent-color-override-light": true,
     "Appearance-light@@color-red-rgb@@light": "#E93147",
@@ -56,5 +56,7 @@
     "Editor@@border-focus-mode": false,
     "Editor@@line-active-bg@@light": "#F3C3A7",
     "Editor@@line-active-bg@@dark": "#F3C3A7",
-    "Mobile@@drawer-phone-full-width": false
+    "Mobile@@drawer-phone-full-width": false,
+    "Components@@immersive-canvas": false,
+    "Components@@outline-enhanced": true
 }
